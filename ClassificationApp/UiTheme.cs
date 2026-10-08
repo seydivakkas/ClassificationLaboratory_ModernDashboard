@@ -75,7 +75,7 @@ public static class UiTheme
     }
 }
 
-public sealed class RoundedCard : Panel
+public class RoundedCard : Panel
 {
     public int Radius { get; set; } = 12;
     public Color BorderColor { get; set; } = UiTheme.Border;
