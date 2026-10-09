@@ -10,7 +10,7 @@
 ## Temsili arayüz önizlemesi
 
 <!-- AI_ARAYUZ_GORSEL_BASLANGIC -->
-*Görsel, `assets/screenshots/ai-temsili-arayuz.png` dosyası depoya eklendiğinde burada görünecektir.*
+![ClassificationLaboratory Spiral karar sınırı, metrikler ve confusion matrix](assets/screenshots/ai-temsili-arayuz.png)
 <!-- AI_ARAYUZ_GORSEL_BITIS -->
 
 Bu görsel, **ClassificationLaboratory** kaynak kodundaki koyu mavi Windows Forms temasını, **Spiral** veri kümesini, MLP karar bölgelerini, eğitim kontrollerini ve **confusion matrix** panelini anlatan yapay zekâ destekli bir arayüz taslağıdır. **Gerçek uygulamadan alınmış bir ekran görüntüsü değildir.** Matris ve başarı metrikleri açıklama amaçlı örnek değerlerdir, gerçek bir model çalıştırmasından ölçülmemiştir.
