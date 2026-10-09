@@ -7,6 +7,14 @@
 **Teknolojiler:** C# · .NET 8 · Windows Forms · elle yazılmış ML algoritmaları · GitHub Actions  
 **İşletim sistemi:** Windows · **Çözüm:** `ClassificationLaboratory.sln` · **Başlangıç projesi:** `ClassificationApp`
 
+## Temsili arayüz önizlemesi
+
+> **Önemli:** Bu bölümde kullanılacak görsel, projenin kaynak kodundaki arayüz düzeni ve tema renkleri esas alınarak **yapay zekâ ile oluşturulmuş temsili bir tasarımdır**. **Gerçek uygulama ekran görüntüsü değildir.** Görseldeki grafikler, metrikler, eğitim sonuçları, tahmin güvenleri ve süreler **örnek değerlerdir; çalıştırılıp ölçülmüş sonuçlar olarak yorumlanmamalıdır.**
+
+<!-- AI_ARAYUZ_GORSEL_BASLANGIC -->
+*Görsel GitHub deposunun `assets/screenshots/ai-temsili-arayuz.png` yoluna eklendiğinde burada gösterilecektir.*
+<!-- AI_ARAYUZ_GORSEL_BITIS -->
+
 ## İçindekiler
 
 1. [Başlıca özellikler](#başlıca-özellikler)
